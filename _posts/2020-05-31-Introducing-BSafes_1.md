@@ -4,8 +4,8 @@ title:  "Introducing BSafes, Part I"
 author: EJServiceKiosk 
 categories: [ Introduction ]
 image: https://statics.bsafes.com/images/prague-980732_1280.jpg 
-featured: true
-hidden: true
+featured: false 
+hidden: false
 comments: false
 ---
 The standards of security have changed over history, but they have always been that needed consideration. From the ancient times of codes and encryptions, offshoots of the popular languages to hide discreet information from prying eyes, to the more modern variant of safeguarding, the handcuff and the briefcase to ensure only the right person with the essential information will possess it and distribute it accordingly. The methods change but the need is always there; the need for highly secure information is a constant concern in the realm of business.

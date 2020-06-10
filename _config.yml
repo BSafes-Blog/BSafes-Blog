@@ -31,16 +31,33 @@ authors:
     web: https://www.fiverr.com/fahadkhan1990?source=order_page_summary_seller_link 
     twitter:
     description: "Hey, I am Fahad and I have done M.Phil in Computer Science. I am a tech geek and creative writer."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
+  legitjoe:
+    name: legitjoe 
+    display_name: legitjoe    
+    avatar: 'https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/f96fb561da939824558abc931a54f837-1566031871879/f1b0f76c-ce59-4cd5-9bff-c0cc13df051a.PNG'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
+    email: support@bsafes.com 
+    web: https://www.fiverr.com/legitjoe 
+    twitter: 
+    description: "Expert Writer and editor, Offering Legit services everyday"
+  malik_zeeshan:
+    name: malik_zeeshan 
+    display_name: malik_zeeshan
+    avatar: 'https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/profile/photos/20665010/original/1493325572264_Profile.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: support@bsafes.com
+    web: https://www.fiverr.com/malik_zeeshan?source=order_page_summary_seller_link 
+    twitter:
+    description: "Certified Cyber-Security Professional with 5 years of Industry Experience with Multiple certifications in cyber security."
+  mutunemunyaka:
+    name: mutunemunyaka 
+    display_name: mutunemunyaka 
+    avatar: 'https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/db10ba23c7303e60e2fc1fa7851a4e78-1522100756663/7e51161c-0e0f-4982-888f-b71ef9a0bcc3.jpg'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: support@bsafes.com
+    web: https://www.fiverr.com/mutunemunyaka?source=order_page_summary_seller_link 
+    twitter:
+    description: "I'm your expert in cybesecurity and cloudcomputing projects and papers"
 # Plugins
 plugins:
   - jekyll-paginate

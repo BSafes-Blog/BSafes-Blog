@@ -4,8 +4,8 @@ title:  "Introducing BSafes, Part II"
 author: EJServiceKiosk 
 categories: [ Introduction ]
 image: https://statics.bsafes.com/images/cyber-security-3400657_1280.jpg 
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
