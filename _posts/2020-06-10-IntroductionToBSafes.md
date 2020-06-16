@@ -48,7 +48,7 @@ I wanted online tools that only my wife and I could access, and that could be st
 
 
 
-#### So, why not simply use OneNOte, Google Keep for Work Notes or may be Evernote?
+#### So, why not simply use OneNote, Google Keep for Work Notes or may be Evernote?
 
 I hear you saying: “Why don’t you just quit complaining and use OneNote, Google Keep, Evernote, Simple note and son and so forth, right? 
 
@@ -80,7 +80,7 @@ I’ll now give you a brief introduction to BSafes, an epitome of security in no
 
 
 
-#### BSafes : AN Open Source Client-Side Encrypted Note Taking App  
+#### BSafes : An Open Source Client-Side Encrypted Note Taking App  
 
 BSafes is a note-taking application that puts a particular emphasis on privacy and security. It is a cross-platform and of course, completely open-source. It is a secure note taking web application for teams and individuals, with end-to-end encryption. 
 
