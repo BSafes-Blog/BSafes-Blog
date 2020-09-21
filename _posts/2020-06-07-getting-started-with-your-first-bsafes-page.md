@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BSafes Tutorials, Part I - Getting Started With BSafes"
+title:  "BSafes Tutorials, Part I - Getting Started With Your First BSafes Page"
 author: malik_zeeshan 
 categories: [ Tutorial ]
 image: https://statics.bsafes.com/images/write-593333_1280.jpg 
