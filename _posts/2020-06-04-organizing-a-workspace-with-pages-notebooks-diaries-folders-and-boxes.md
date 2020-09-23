@@ -18,7 +18,7 @@ Since you know how a page is created and used, you can start understanding noteb
 <sup>Image by <a href="https://pixabay.com/users/klimkin-1298145/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1034421">klimkin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1034421">Pixabay</a></sup>
 
 #### 11.1. Notebook
-A notebook is simply a collection of pages ordered by page numbers. To select a notebook, click on the Notebook when you press the blue plus sign in the activities tab, as shown below.
+A notebook is simply a collection of pages ordered by page numbers. To select a notebook, click on the Notebook when you press the blue plus sign on the main page, as shown below.
 
 <img src="https://statics.bsafes.com/images/Tutorial_11-1-1_v2.png"
      alt="Add a Notebook"
