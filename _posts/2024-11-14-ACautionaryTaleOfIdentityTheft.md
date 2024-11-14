@@ -9,9 +9,10 @@ hidden: false
 comments: false
 keywords: "End-to-End Encryption"
 ---
-<sup>Image by <a href="https://www.pexels.com/photo/portrait-of-woman-with-blue-blouse-in-studio-29367726/">Bruno Cortés FP</a></sup>
 
 Identity theft is a severe crime affecting millions yearly, leading to significant financial losses. It can manifest in various forms, including monetary, tax, and healthcare fraud, stemming from unprotected personal information.
+
+<sup>Image by <a href="https://www.pexels.com/photo/portrait-of-woman-with-blue-blouse-in-studio-29367726/">Bruno Cortés FP</a></sup>
 
 Maya's ordeal began innocuously enough. A family friend contacted her and asked why the police were looking for her. Initially, Maya thought it was a joke, as she had never been in trouble before—not even a minor infraction like a seatbelt ticket. However, the friend insisted that the chief of police in Oblong was trying to reach her.
 
@@ -26,13 +27,13 @@ The emotional toll was equally severe. Maya struggled to trust anyone, believing
 Maya's experience serves as a stark reminder that identity theft can happen to anyone, anywhere. She admits that leaving her personal information in a vulnerable location was a mistake. Her story underscores the importance of taking proactive steps to protect personal information.
 
 To safeguard your identity, follow these guidelines:
-•  Ensure websites are secure before submitting your credit card number.
+-  Ensure websites are secure before submitting your credit card number.
 
-•  Verify the identity of any person or organization making an offer before you trust them.
+-  Verify the identity of any person or organization making an offer before you trust them.
 
-•  Never give out personal information over the phone unless you initiate the call.
+-  Never give out personal information over the phone unless you initiate the call.
 
-•  Store personal information in a safe place.
+-  Store personal information in a safe place.
 
 Remember, you are the best protector of your identity.
 
