@@ -12,7 +12,9 @@ keywords: "End-to-End Encryption"
 
 Identity theft is a severe crime affecting millions yearly, leading to significant financial losses. It can manifest in various forms, including monetary, tax, and healthcare fraud, stemming from unprotected personal information.
 
-<sup>Image by <a href="https://www.pexels.com/photo/portrait-of-woman-with-blue-blouse-in-studio-29367726/">Bruno Cortés FP</a></sup>
+> <sup>A real case with a changed name to protect the victim's privacy.</sup>
+> <sup>Image by <a href="https://www.pexels.com/photo/portrait-of-woman-with-blue-blouse-in-studio-29367726/">Bruno Cortés FP</a></sup>
+
 
 Maya's ordeal began innocuously enough. A family friend contacted her and asked why the police were looking for her. Initially, Maya thought it was a joke, as she had never been in trouble before—not even a minor infraction like a seatbelt ticket. However, the friend insisted that the chief of police in Oblong was trying to reach her.
 
