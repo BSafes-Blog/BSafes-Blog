@@ -1,7 +1,7 @@
 # Site
 name: "Blog"
 title: "BSafes Blog"
-description: "Introducing BSafes Collaborative Note-Taking with 256-Bit End-to-End Encryption"
+description: "Protecting Sensitive Information in an AI-Driven World"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
