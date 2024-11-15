@@ -2,7 +2,7 @@
 layout: post
 title:  "Maya's Story: A Cautionary Tale of Identity Theft"
 author: BSafesSupport
-categories: [ Fraud ]
+categories: [ Frauds ]
 image: https://images.pexels.com/photos/29367726/pexels-photo-29367726/free-photo-of-portrait-of-woman-with-blue-blouse-in-studio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 
 featured: false 
 hidden: false
