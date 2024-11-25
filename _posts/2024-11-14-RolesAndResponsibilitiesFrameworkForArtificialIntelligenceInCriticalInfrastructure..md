@@ -10,7 +10,7 @@ comments: false
 keywords: "Artificial Intelligence"
 ---
 
-The Department of Homeland Security (DHS) recently released the "Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure." This framework guides AI's safe and secure deployment across critical infrastructure sectors, like energy, water, and telecommunications.
+The Department of Homeland Security (DHS) recently released the ("Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure.")[https://www.dhs.gov/publication/roles-and-responsibilities-framework-artificial-intelligence-critical-infrastructure] This framework guides AI's safe and secure deployment across critical infrastructure sectors, like energy, water, and telecommunications.
 
 > <sup>Image by <a href="https://www.pexels.com/photo/a-large-dam-with-water-flowing-over-it-28299046/">capricorn sound</a></sup>
 
