@@ -2,12 +2,12 @@
 layout: post
 title:  "Maya's Story: A Cautionary Tale of Identity Theft"
 author: BSafesSupport
-categories: [ Frauds ]
+categories: [ Cybercrime ]
 image: https://images.pexels.com/photos/29367726/pexels-photo-29367726/free-photo-of-portrait-of-woman-with-blue-blouse-in-studio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 
 featured: false 
 hidden: false
 comments: false
-keywords: "End-to-End Encryption"
+keywords: "Identity Theft"
 ---
 
 Identity theft is a severe crime affecting millions yearly, leading to significant financial losses. It can manifest in various forms, including monetary, tax, and healthcare fraud, stemming from unprotected personal information.

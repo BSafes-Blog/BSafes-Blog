@@ -2,7 +2,7 @@
 layout: post
 title:  "Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure"
 author: BSafesSupport
-categories: [ Policy ]
+categories: [ Artificial Intelligence ]
 image: https://images.pexels.com/photos/28299046/pexels-photo-28299046/free-photo-of-a-large-dam-with-water-flowing-over-it.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 featured: false 
 hidden: false

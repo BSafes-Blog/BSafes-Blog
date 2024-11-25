@@ -2,12 +2,12 @@
 layout: post
 title:  "How Can a Rational Person Become a Victim of a Scam?"
 author: BSafesSupport
-categories: [ Scams]
+categories: [ Cybercrime ]
 image: https://images.pexels.com/photos/7699410/pexels-photo-7699410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 featured: false 
 hidden: false
 comments: false
-keywords: "End-to-End Encryption"
+keywords: "Cybercrime"
 ---
 
 Criminals can trick rational people into scams for several reasons:

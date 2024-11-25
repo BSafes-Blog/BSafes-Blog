@@ -2,12 +2,12 @@
 layout: post
 title:  "Global Encryption Day 2024"
 author: BSafesSupport
-categories: [ Frauds ]
+categories: [ Encryption ]
 image: https://images.pexels.com/photos/7319070/pexels-photo-7319070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 
 featured: false 
 hidden: false
 comments: false
-keywords: "End-to-End Encryption"
+keywords: "Encryption"
 ---
 
 [Global Encryption Day 2024](https://www.globalencryption.org/2024/07/global-encryption-day-2024/) will host various engaging events to raise awareness about encryption's essential role in securing our digital lives. Here are some highlights of the planned activities:
