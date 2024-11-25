@@ -16,13 +16,6 @@ Criminals can trick rational people into scams for several reasons:
 
 > <sup>Image by <a href="https://www.pexels.com/photo/woman-covering-her-face-with-her-hands-7699410/">MART PRODUCTION</a></sup>
 
-
-How can a rational person become a victim of a scam?
-
-Criminals can trick rational people into scams for several reasons:
-
-1. Cognitive Biases: Even rational individuals can fall prey to cognitive biases, such as confirmation bias, where they only pay attention to information that supports their preconceived notions, or optimism bias, which can make them underestimate risks.
-
 2. Emotional Manipulation: Scammers often use emotional appeals, creating a sense of urgency or fear. It can cloud judgment, leading even logical thinkers to make hasty decisions.
 
 3. Social Proof: People often look to others for cues on behavior. If criminals present a scam as widely accepted or endorsed by others, a rational person may feel reassured and more willing to engage.
