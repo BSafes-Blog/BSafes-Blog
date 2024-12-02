@@ -12,7 +12,6 @@ keywords: "Encryption"
 
 [Global Encryption Day 2024](https://www.globalencryption.org/2024/07/global-encryption-day-2024/) will host various engaging events to raise awareness about encryption's essential role in securing our digital lives. Here are some highlights of the planned activities:
 
-> <sup>A real case with a changed name to protect the victim's privacy.</sup>
 > <sup>Image by <a href="https://www.pexels.com/photo/photo-of-person-taking-down-notes-7319070/">Cottonbro Studio</a></sup>
 
 1. Webinars and Online Workshops: Various organizations and cybersecurity experts will host webinars focusing on different aspects of encryption, such as its benefits, how to implement encryption technologies, and the latest trends in cybersecurity. These sessions will offer valuable insights for both individuals and businesses.
