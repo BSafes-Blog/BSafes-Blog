@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Impact of Martial Law on Democracy: A Deep Div Protection"
+title:  "The Impact of Martial Law on Democracy: A Deep Dive"
 author: BSafesSupport
 categories: [ General ]
 image: https://images.theconversation.com/files/636046/original/file-20241204-19-nb5c71.jpg?ixlib=rb-4.1.0&q=30&auto=format&w=600&h=400&fit=crop&dpr=2
