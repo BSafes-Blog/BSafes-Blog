@@ -7,7 +7,7 @@ image: https://images.theconversation.com/files/636046/original/file-20241204-19
 featured: false 
 hidden: false
 comments: false
-keywords: "Client Side Scanning"
+keywords: "Martial Law"
 ---
 
 South Korean President Yoon Suk Yeol declared martial law, citing threats from North Korea and internal anti-state elements. This move was met with intense backlash and protests, leading to a swift reversal of the declaration. The situation has sparked significant political turmoil, with calls for Yoon's impeachment and concerns about the impact on South Korea's democracy.
