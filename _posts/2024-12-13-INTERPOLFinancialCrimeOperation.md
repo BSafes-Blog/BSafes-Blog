@@ -2,12 +2,12 @@
 layout: post
 title:  "INTERPOL's Operation HAECHI V: A Landmark Victory Against Cyber-Enabled Financial Crimes"
 author: BSafesSupport
-categories: [ Breach ]
+categories: [ Cybercrime ]
 image: https://www.interpol.int/var/interpol/storage/images/2/4/3/7/387342-1-eng-GB/60c43b6b6d40-5-Haechi_Group-Photo.png
 featured: false 
 hidden: false
 comments: false
-keywords: "Telecommunications"
+keywords: "INTERPOL"
 ---
 
 In a landmark operation, INTERPOL has announced the arrest of over 5,500 suspects and the seizure of assets worth more than USD 400 million. This global effort, known as Operation HAECHI V, targeted a wide range of cyber-enabled financial crimes, including voice phishing, romance scams, and illegal online gambling.
