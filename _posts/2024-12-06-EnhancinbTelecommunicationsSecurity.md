@@ -10,7 +10,7 @@ comments: false
 keywords: "Telecommunications"
 ---
 
-The article ["Enhanced Visibility and Hardening Guidance for Communications Infrastructure"](https://www.cisa.gov/resources-tools/resources/enhanced-visibility-and-hardening-guidance-communications-infrastructure) addresses a significant cybersecurity threat from actors affiliated with the People's Republic of China (PRC), who have reportedly compromised networks of major global telecommunications providers to execute a broad cyber espionage campaign. The Cybersecurity and Infrastructure Security Agency (CISA), along with other international agencies, has developed a guide for network engineers and defenders to enhance the security of communication infrastructures. 
+The article ["Enhanced Visibility and Hardening Guidance for Communications Infrastructure"](https://www.cisa.gov/resources-tools/resources/enhanced-visibility-and-hardening-guidance-communications-infrastructure) addresses a significant cybersecurity threat from actors affiliated with the People's Republic of China (PRC), who have reportedly [compromised networks of major global telecommunications providers](/SaltTyphoonHacksOfTelecommunications-Companies-and-Federal-Response-Implications/) to execute a broad cyber espionage campaign. The Cybersecurity and Infrastructure Security Agency (CISA), along with other international agencies, has developed a guide for network engineers and defenders to enhance the security of communication infrastructures. 
 
 > <sup>Image by <a href="https://www.pexels.com/photo/man-in-black-and-white-checkered-dress-shirt-using-computer-3992926/">CDC</a></sup>
 

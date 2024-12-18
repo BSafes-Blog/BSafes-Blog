@@ -23,7 +23,7 @@ Salt Typhoon demonstrated sophisticated hacking techniques that reflected a deep
 
 ### Federal Response: A Coordinated Effort
 
-Recognizing the severity of these attacks, the White House established a coordinated response on October 8, 2024. This initiative aims to tackle the immediate fallout of hacking incidents while laying the groundwork for preventive measures in the future. The U.S. government's swift acknowledgment of the People's Republic of China's involvement demonstrates a commitment to transparency and accountability. Ongoing investigations are critical as they will help to uncover the full extent of the hacks and ensure that those responsible are held accountable.
+Recognizing the severity of these attacks, the White House established a coordinated response on October 8, 2024. This initiative aims to tackle the immediate fallout of hacking incidents while laying the groundwork for preventive measures in the future. The [U.S. government's swift acknowledgment of the People's Republic of China's involvement](/EnhancinbTelecommunicationsSecurity/) demonstrates a commitment to transparency and accountability. Ongoing investigations are critical as they will help to uncover the full extent of the hacks and ensure that those responsible are held accountable.
 
 ### Broader Implications for National Security
 
