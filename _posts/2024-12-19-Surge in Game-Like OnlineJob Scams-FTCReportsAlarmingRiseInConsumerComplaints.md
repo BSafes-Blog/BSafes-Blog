@@ -2,12 +2,12 @@
 layout: post
 title:  "Surge in Gamified Job Scams: FTC Reports Alarming Rise in Consumer Complaints"
 author: BSafesSupport
-categories: [ Surveillance ]
+categories: [ Cybercrime ]
 image: https://images.pexels.com/photos/7247413/pexels-photo-7247413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 featured: false 
 hidden: false
 comments: false
-keywords: "Surveillance"
+keywords: "Scam"
 ---
 
 [The Federal Trade Commission (FTC) has released new data](https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2024/12/paying-get-paid-gamified-job-scams-drive-record-losses) highlighting a significant increase in consumer reports about online job scams that resemble games. These scams, often called "task scams," have dramatically risen from zero reports in 2020 to 5,000 in 2023 and then quadrupled to about 20,000 in the first half of 2024.
