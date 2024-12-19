@@ -24,6 +24,6 @@ The report drew attention to the pervasive atmosphere of intimidation within Ser
 
 Serbia's legal framework governing digital surveillance needs to be revised. Multiple activists reported feeling vulnerable and altering their communication practices due to the fear of being monitored, demonstrating the chilling effect of such invasive surveillance on free expression and civil engagement.
 
-Overall, this situation underscores the urgent need for reform and accountability in Serbia regarding digital surveillance practices, emphasizing the responsibility of both the state and technology providers like Cellebrite to safeguard human rights. The report calls for immediate action to halt the misuse of surveillance technologies and ensure the protection of civil liberties in Serbia. mental space
+Overall, this situation underscores the urgent need for reform and accountability in Serbia regarding digital surveillance practices, emphasizing the responsibility of both the state and technology providers like Cellebrite to safeguard human rights. The report calls for immediate action to halt the misuse of surveillance technologies and ensure the protection of civil liberties in Serbia. 
 
 
