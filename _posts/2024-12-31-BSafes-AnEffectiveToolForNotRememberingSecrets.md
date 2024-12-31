@@ -3,7 +3,7 @@ layout: post
 title:  "BSafes: An Effective Tool for Not Remembering Secrets"
 author: BSafesSupport
 categories: [ General ]
-image: https://blog.bsafes.com/assets/images/BSafesBanner.png
+image: https://blog.bsafes.com/assets/images/BSafesBanner.jpg
 featured: false 
 hidden: false
 comments: false
