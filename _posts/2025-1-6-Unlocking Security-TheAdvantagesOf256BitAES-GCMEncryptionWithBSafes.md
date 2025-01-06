@@ -24,6 +24,9 @@ To grasp the significance of 256-bit AES-GCM, we need to break down the componen
 
 3. **GCM (Galois/Counter Mode)**: GCM is a mode of operation for AES that encrypts data and provides authenticity and integrity assurance. It combines the techniques of encryption and message authentication, ensuring that the data has not been tampered with during transit.
 
+[![AES GCM (Advanced Encryption Standard in Galois Counter Mode) - Computerphile](https://i3.ytimg.com/vi/-fpVv_T4xwA/maxresdefault.jpg)](https://www.youtube.com/watch?v=-fpVv_T4xwA)
+> <sup>This [video](https://www.youtube.com/watch?v=-fpVv_T4xwA) provides an excellent introduction to AES-GCM.</sup>
+
 #### Advantages of 256-bit AES-GCM
 
 With BSafes leveraging 256-bit AES-GCM encryption, users can take advantage of several key benefits:
