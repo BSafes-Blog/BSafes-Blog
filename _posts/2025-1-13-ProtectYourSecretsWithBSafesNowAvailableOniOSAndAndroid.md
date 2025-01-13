@@ -3,7 +3,7 @@ layout: post
 title:  "Protect Your Secrets with BSafes. Now Available on iOS and Android!"
 author: BSafesSupport
 categories: [ General ]
-image: https://i0.wp.com/genai.owasp.org/wp-content/uploads/2024/12/OWASP-T10-for-LLM-and-GenAI-2025-Draft.png?w=1280&ssl=1
+image: https://blog.bsafes.com/assets/images/mobileAppRelease.png
 featured: false 
 hidden: false
 comments: false
@@ -11,8 +11,6 @@ keywords: "secrets"
 ---
 
 In an AI (Artificial Intelligence) age where privacy concerns are at an all-time high, maintaining the security of your personal information has never been more crucial. We're thrilled to announce the release of the BSafes mobile app for iOS and Android users! BSafes is a revolutionary platform that allows you to protect your secrets with automatic encryption and backup. Write and securely add your photos, videos, and files, and access them from anywhere, anytime, on any device—all while ensuring that no one else can see your data, not even us!
-
-> Image: [2025 Top 10 Risk & Mitigations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/) from OWASP.
 
 **Protect Your Secrets with BSafes. Now Available on iOS and Android!**
 
