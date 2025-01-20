@@ -3,14 +3,14 @@ layout: post
 title:  "Exploring the Mozilla Community's Vision: Insights from the Latest Survey"
 author: BSafesSupport
 categories: [ General ]
-image: https://blog.bsafes.com/assets/images/mobileAppRelease.png
+image: https://blog.bsafes.com/assets/images/Mozilla.png
 featured: false 
 hidden: false
 comments: false
 keywords: "secrets"
 ---
 
-In a notable initiative to engage its global community, Mozilla recently conducted a survey asking, "What is your dream for Mozilla?" The results were remarkable, with over 16,694 responses from individuals from more than 130 countries. This extensive feedback highlights pressing concerns and illustrates the shared aspirations of a diverse community passionate about the future of the Internet. 
+In a notable initiative to engage its global community, [Mozilla](https://www.mozilla.org/en-US/) recently conducted a survey asking, "What is your dream for Mozilla?" The results were remarkable, with over 16,694 responses from individuals from more than 130 countries. This extensive feedback highlights pressing concerns and illustrates the shared aspirations of a diverse community passionate about the future of the Internet. 
 
 ### Key Priorities Identified
 
