@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Protect Your Secrets with BSafes. Now Available on iOS and Android!"
+title:  "Exploring the Mozilla Community's Vision: Insights from the Latest Survey"
 author: BSafesSupport
 categories: [ General ]
 image: https://blog.bsafes.com/assets/images/mobileAppRelease.png
